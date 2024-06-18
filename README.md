@@ -6,11 +6,11 @@ A React and Node based web application that allows user to signup, login and vie
 This project is a Data Catalog web application developed using Node.js, Express.js for the backend, SQLite for storage, and React.js for the frontend. The system allows users to viewing product details and search for products by name or category.
 
 ### Sample Work
-![Sign Up Page]((https://github.com/sahilmutha1999/Full-stack-B2B-Data-Catalog/blob/main/images/1.png))
+![Sign Up Page](https://github.com/sahilmutha1999/Full-stack-B2B-Data-Catalog/blob/main/images/1.png)
 
-![Data Catalog Page]((https://github.com/sahilmutha1999/Full-stack-B2B-Data-Catalog/blob/main/images/2.png))
+![Data Catalog Page](https://github.com/sahilmutha1999/Full-stack-B2B-Data-Catalog/blob/main/images/2.png)
 
-![More Details Pop-up]((https://github.com/sahilmutha1999/Full-stack-B2B-Data-Catalog/blob/main/images/3.png))
+![More Details Pop-up](https://github.com/sahilmutha1999/Full-stack-B2B-Data-Catalog/blob/main/images/3.png)
 
 ### Scope of Work
 
