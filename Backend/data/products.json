@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "category": "Firmographic",
+    "recordCount": 5250,
+    "fields": ["Company name", "Company address", "Website"],
+    "name": "Firmographic Data 1"
+  },
+  {
+    "id": 2,
+    "category": "Demographic",
+    "recordCount": 1234,
+    "fields": ["Age", "Gender", "Location"],
+    "name": "Demographic Data 1"
+  },
+  {
+    "id": 3,
+    "category": "Technographic",
+    "recordCount": 7890,
+    "fields": ["Technology stack", "Software used", "Hardware used"],
+    "name": "Technographic Data 1"
+  },
+  {
+    "id": 4,
+    "category": "Geographic",
+    "recordCount": 3456,
+    "fields": ["Country", "State", "City", "Zip Code"],
+    "name": "Geographic Data 1"
+  },
+  {
+    "id": 5,
+    "category": "Behavioral",
+    "recordCount": 4321,
+    "fields": ["Purchase history", "Browsing behavior", "Email open rate"],
+    "name": "Behavioral Data 1"
+  },
+  {
+    "id": 6,
+    "category": "Psychographic",
+    "recordCount": 2100,
+    "fields": ["Interests", "Lifestyle", "Values"],
+    "name": "Psychographic Data 1"
+  },
+  {
+    "id": 7,
+    "category": "Transactional",
+    "recordCount": 5678,
+    "fields": ["Transaction date", "Transaction amount", "Product purchased"],
+    "name": "Transactional Data 1"
+  },
+  {
+    "id": 8,
+    "category": "Healthcare",
+    "recordCount": 890,
+    "fields": ["Patient name", "Diagnosis", "Treatment plan"],
+    "name": "Healthcare Data 1"
+  },
+  {
+    "id": 9,
+    "category": "Educational",
+    "recordCount": 345,
+    "fields": ["Student name", "Grade", "Courses enrolled"],
+    "name": "Educational Data 1"
+  },
+  {
+    "id": 10,
+    "category": "Employment",
+    "recordCount": 678,
+    "fields": ["Employee name", "Position", "Department"],
+    "name": "Employment Data 1"
+  },
+  {
+    "id": 11,
+    "category": "Firmographic",
+    "recordCount": 6400,
+    "fields": ["Company name", "Industry", "Annual revenue", "Number of employees"],
+    "name": "Firmographic Data 2"
+  },
+  {
+    "id": 12,
+    "category": "Demographic",
+    "recordCount": 2560,
+    "fields": ["Age group", "Marital status", "Education level"],
+    "name": "Demographic Data 2"
+  },
+  {
+    "id": 13,
+    "category": "Technographic",
+    "recordCount": 1345,
+    "fields": ["Operating systems", "Programming languages used", "Development methodologies"],
+    "name": "Technographic Data 2"
+  },
+  {
+    "id": 14,
+    "category": "Geographic",
+    "recordCount": 2987,
+    "fields": ["Continent", "Country", "State", "City"],
+    "name": "Geographic Data 2"
+  },
+  {
+    "id": 15,
+    "category": "Behavioral",
+    "recordCount": 3900,
+    "fields": ["Online purchase frequency", "Brand loyalty", "Social media activity"],
+    "name": "Behavioral Data 2"
+  },
+  {
+    "id": 16,
+    "category": "Psychographic",
+    "recordCount": 1570,
+    "fields": ["Personality traits", "Hobbies", "Buying motives"],
+    "name": "Psychographic Data 2"
+  },
+  {
+    "id": 17,
+    "category": "Transactional",
+    "recordCount": 4800,
+    "fields": ["Transaction method", "Currency used", "Transaction location"],
+    "name": "Transactional Data 2"
+  },
+  {
+    "id": 18,
+    "category": "Healthcare",
+    "recordCount": 1020,
+    "fields": ["Patient ID", "Allergies", "Medications"],
+    "name": "Healthcare Data 2"
+  },
+  {
+    "id": 19,
+    "category": "Educational",
+    "recordCount": 567,
+    "fields": ["Institution name", "Degree obtained", "Field of study"],
+    "name": "Educational Data 2"
+  },
+  {
+    "id": 20,
+    "category": "Employment",
+    "recordCount": 945,
+    "fields": ["Employer", "Years of experience", "Skills"],
+    "name": "Employment Data 2"
+  },
+  {
+    "id": 21,
+    "category": "Firmographic",
+    "recordCount": 7123,
+    "fields": ["Headquarters location", "Company age", "Public/Private"],
+    "name": "Firmographic Data 3"
+  },
+  {
+    "id": 22,
+    "category": "Demographic",
+    "recordCount": 1423,
+    "fields": ["Ethnicity", "Household size", "Income range"],
+    "name": "Demographic Data 3"
+  },
+  {
+    "id": 23,
+    "category": "Technographic",
+    "recordCount": 5900,
+    "fields": ["Cloud services used", "Database technologies", "Networking solutions"],
+    "name": "Technographic Data 3"
+  },
+  {
+    "id": 24,
+    "category": "Geographic",
+    "recordCount": 3891,
+    "fields": ["Latitude", "Longitude", "Population density"],
+    "name": "Geographic Data 3"
+  },
+  {
+    "id": 25,
+    "category": "Behavioral",
+    "recordCount": 5100,
+    "fields": ["Customer feedback", "Product return rate", "Engagement score"],
+    "name": "Behavioral Data 3"
+  },
+  {
+    "id": 26,
+    "category": "Psychographic",
+    "recordCount": 2750,
+    "fields": ["Attitudes", "Opinions", "Lifestyle segments"],
+    "name": "Psychographic Data 3"
+  },
+  {
+    "id": 27,
+    "category": "Transactional",
+    "recordCount": 6780,
+    "fields": ["Sales channel", "Promotion used", "Transaction feedback"],
+    "name": "Transactional Data 3"
+  },
+  {
+    "id": 28,
+    "category": "Healthcare",
+    "recordCount": 1120,
+    "fields": ["Physician name", "Insurance provider", "Procedure performed"],
+    "name": "Healthcare Data 3"
+  },
+  {
+    "id": 29,
+    "category": "Educational",
+    "recordCount": 425,
+    "fields": ["Certification obtained", "Graduation date", "Academic honors"],
+    "name": "Educational Data 3"
+  },
+  {
+    "id": 30,
+    "category": "Employment",
+    "recordCount": 856,
+    "fields": ["Salary", "Job title", "Employment status"],
+    "name": "Employment Data 3"
+  }
+]

@@ -1,0 +1,61 @@
+/* src/components/css/LogoutConfirmationModal.css */
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  .modal h2 {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+  }
+  
+  .modal-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .confirm-button,
+  .cancel-button {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .confirm-button {
+    background: #d32f2f;
+    color: #fff;
+  }
+  
+  .confirm-button:hover {
+    background: #c62828;
+  }
+  
+  .cancel-button {
+    background: var(--light-gray);
+  }
+  
+  .cancel-button:hover {
+    background: var(--highlight-color);
+  }
+  

@@ -1,0 +1,31 @@
+/* Define styles for the product detail page */
+.product-detail-container {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.product-detail-card {
+  background-color: var(--light-gray);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.product-detail-card h2 {
+  margin-bottom: 1rem;
+  color: var(--primary-color);
+}
+
+.product-detail-card p {
+  margin: 0.5rem 0;
+}
+
+.fields-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.fields-list li {
+  padding: 0.5rem 0;
+}
